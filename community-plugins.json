@@ -19242,4 +19242,11 @@
     "description": "A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access.",
     "repo": "especialkim/obsidian-synaptic-view"
   }
+  {
+    "id": "worldorbit",
+    "name": "WorldOrbit",
+    "author": "Hanjo Winter",
+    "description": "Render fictional star systems from fenced code blocks with interactive 2D previews and orbital diagnostics.",
+    "repo": "negurvulkan/worldorbit-obsidian"
+  }
 ]
